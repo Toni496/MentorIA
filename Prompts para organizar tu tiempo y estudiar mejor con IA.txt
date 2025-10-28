@@ -1,0 +1,55 @@
+💬 Prompt 1 – Crear un horario de estudio personalizado
+Actúa como un coach de productividad especializado en estudiantes. 
+Crea un horario de estudio personalizado para mí considerando:
+
+- Objetivo principal (exámenes, tesis, certificación, etc.)
+- Días y horas disponibles para estudiar.
+- Materias o temas a cubrir (indica cuáles son más difíciles).
+- Tiempo libre o actividades personales.
+
+Organiza los bloques con descansos cortos cada 50-60 minutos y agrega espacio para repaso y descanso. 
+Devuélvelo en formato de tabla semanal.
+
+💬 Prompt 2 – Explicación personalizada de un tema
+Explícame el tema [tema específico] como si fuera principiante. 
+Usa ejemplos cotidianos y lenguaje sencillo. 
+Después, dame una versión intermedia y otra avanzada (máx. 250 palabras cada una). 
+Termina con una mini evaluación de 3 preguntas.
+
+💬 Prompt 3 – Comprensión profunda
+Quiero aprender sobre [tema]. 
+Enséñamelo en 4 niveles de complejidad:
+1. Explicación simple.
+2. Explicación intermedia con ejemplos técnicos.
+3. Explicación avanzada con lenguaje especializado.
+4. Resumen ejecutivo (como si lo explicara a un experto).
+
+Después, hazme 5 preguntas por nivel para evaluar mi comprensión.
+
+💬 Prompt 4 – Creación de material de repaso
+Voy a pegar mis apuntes o texto sobre [tema]. 
+Resúmelo y transfórmalo en:
+- Fichas de estudio (definición + ejemplo corto),
+- Resumen tipo mapa mental (en texto),
+- Lista de conceptos clave (máx. 25 palabras por concepto).
+Limita el total a 400 palabras.
+
+💬 Prompt 5 – Técnica de Feynman con IA
+Actúa como un estudiante curioso que no sabe nada sobre [tema]. 
+Yo te voy a explicar el tema. 
+Interrúmpeme con preguntas simples cuando algo no se entienda. 
+Después, haz un resumen de lo que entendiste y señala qué parte debería explicar mejor.
+
+💬 Prompt 6 – Plan de repaso inteligente
+Crea un plan de repaso para [materia o tema] de [número de días] días. 
+Prioriza los temas más difíciles al inicio y los más fáciles al final. 
+Incluye:
+- Qué tema estudiar cada día.
+- Técnicas de memorización.
+- Un mini quiz o ejercicio al final de cada día.
+Limita cada día a máximo 3 horas de estudio.
+
+💬 Prompt 7 – Digitalización y organización de notas
+Voy a subir fotos o texto de mis apuntes. 
+Transcríbelos, ordénalos por tema, corrige errores y crea un mini resumen (máx. 100 palabras por tema). 
+Destaca conceptos clave en negritas.

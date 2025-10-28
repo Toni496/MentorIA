@@ -1,0 +1,212 @@
+💬 Prompt 1 – Crear un currículum profesional completo desde cero (estilo ejecutivo)
+Actúa como un experto en Recursos Humanos especializado en redacción de currículums ejecutivos en español.  
+Crea un currículum de una sola página, con un tono formal, técnico y orientado a logros.  
+
+Antes de redactarlo, hazme las siguientes preguntas para personalizarlo:
+1. Nombre completo y título profesional.  
+2. Ciudad y Estado.  
+3. Correo electrónico, teléfono y perfil de LinkedIn (opcional).  
+4. Años de experiencia, área de especialización y tipo de puesto que busca.  
+5. Experiencia laboral (puestos, empresas, fechas y logros medibles o actividades relevantes).  
+6. Formación académica (carrera, universidad, años y distinciones).  
+7. Certificaciones o cursos relevantes.  
+8. Habilidades técnicas y blandas.  
+9. Idiomas y nivel.
+Cuando tenga toda la información, genera el currículum con este formato:
+---
+**NOMBRE COMPLETO**  
+_Título profesional (por ejemplo: Ingeniero Mecatrónico)_  
+Ciudad, Estado | Teléfono | Correo | LinkedIn  
+---
+### **PERFIL PROFESIONAL**  
+Redacta un párrafo de **30 a 50 palabras**.  
+Debe describir la experiencia, especialidad y principales fortalezas de forma profesional y directa.  
+Usa frases como: *Profesional orientado a resultados*, *Experiencia comprobada en...*, *Capacidad para liderar proyectos de...*
+
+
+
+---
+### **EXPERIENCIA LABORAL**  
+Por cada puesto, incluye:  
+**Cargo | Empresa | Periodo (mes/año – mes/año)**  
+Además, ordena los puestos del más reciente al más antiguo.
+Agrega **4 a 6 viñetas** de máximo **15–20 palabras** cada viñeta para cada uno de los puestos.  
+Cada viñeta debe comenzar con un **verbo en pasado** (Lideré, Implementé, Coordiné, Logré, Desarrollé, etc.) cuando sean puestos en los que ya no trabajo actualmente, en caso de ser un puesto actual, cada viñeta debe comenzar con un **verbo en presente**. Además, ordenas las actividades por orden de importancia.
+Incluye datos medibles y logros reales.  
+Ejemplo:  
+- Implementé iniciativas de mejora continua, reduciendo en un 15% los desperdicios y actividades que no agregan valor mediante metodologías Lean.  
+- Implementé un sistema digital para aprobación de tiempo extra, logrando reducir en un 15% el gasto de tiempo extra a nivel planta.
+- Capacité y desarrollé más de 50 empleados en metodologías Lean y resolución de problemas, fomentando una cultura de mejora continua.
+---
+### **FORMACIÓN ACADÉMICA**  
+**Grado | Universidad | Años cursados**  
+Incluye 1 viñeta opcional con logros o distinciones (máx. 15 palabras).
+Ordena la formación académica del más reciente al más antiguo.  
+---
+### **CERTIFICACIONES**  
+Lista con año entre paréntesis y ordena las certificaciones de la más reciente a la más antigua.  
+Ejemplo:  
+- Lean Six Sigma Green Belt (2023)  
+- Power BI (2024)  
+
+---
+### **HABILIDADES**  
+Divide en:  
+- **Habilidades técnicas:** lista de 5 herramientas o softwares.  
+- **Habilidades blandas:** lista de 5 competencias personales o profesionales.  
+---
+### **IDIOMAS**  
+Ejemplo:  
+Español: Nativo | Inglés: Intermedio (B2)  
+---
+Mantén un tono profesional, redacta con precisión y usa frases cortas y medibles.  
+Evita párrafos largos o información redundante.
+ 
+💬 Prompt 2 – Mejorar un currículum existente al formato ejecutivo (una página)
+Actúa como especialista en reclutamiento y redacción de currículums ejecutivos.  
+Voy a pegar mi currículum actual.  
+Tu tarea es reestructurarlo y reescribirlo con un formato profesional, conciso y atractivo de **una sola página**.  
+
+Aplica estas reglas y formato:  
+Cuando tenga toda la información, genera el currículum con este formato:
+---
+**NOMBRE COMPLETO**  
+_Título profesional (por ejemplo: Ingeniero Mecatrónico)_  
+Ciudad, Estado | Teléfono | Correo | LinkedIn  
+---
+### **PERFIL PROFESIONAL**  
+Redacta un párrafo de **30 a 50 palabras**.  
+Debe describir la experiencia, especialidad y principales fortalezas de forma profesional y directa.  
+Usa frases como: *Profesional orientado a resultados*, *Experiencia comprobada en...*, *Capacidad para liderar proyectos de...*
+---
+### **EXPERIENCIA LABORAL**  
+Por cada puesto, incluye:  
+**Cargo | Empresa | Periodo (mes/año – mes/año)**  
+Además, ordena los puestos del más reciente al más antiguo.
+Agrega **4 a 6 viñetas** de máximo **15–20 palabras** cada viñeta para cada uno de los puestos.  
+Cada viñeta debe comenzar con un **verbo en pasado** (Lideré, Implementé, Coordiné, Logré, Desarrollé, etc.) cuando sean puestos en los que ya no trabajo actualmente, en caso de ser un puesto actual, cada viñeta debe comenzar con un **verbo en presente**. Además, ordenas las actividades por orden de importancia.
+Incluye datos medibles y logros reales.  
+
+Ejemplo:  
+- Implementé iniciativas de mejora continua, reduciendo en un 15% los desperdicios y actividades que no agregan valor mediante metodologías Lean.  
+- Implementé un sistema digital para aprobación de tiempo extra, logrando reducir en un 15% el gasto de tiempo extra a nivel planta.
+- Capacité y desarrollé más de 50 empleados en metodologías Lean y resolución de problemas, fomentando una cultura de mejora continua.
+---
+### **FORMACIÓN ACADÉMICA**  
+**Grado | Universidad | Años cursados**  
+Incluye 1 viñeta opcional con logros o distinciones (máx. 15 palabras).
+Ordena la formación académica del más reciente al más antiguo.  
+---
+### **CERTIFICACIONES**  
+Lista con año entre paréntesis y ordena las certificaciones de la más reciente a la más antigua.  
+Ejemplo:  
+- Lean Six Sigma Green Belt (2023)  
+- Power BI (2024)  
+---
+### **HABILIDADES**  
+Divide en:  
+- **Habilidades técnicas:** lista de 5 herramientas o softwares.  
+- **Habilidades blandas:** lista de 5 competencias personales o profesionales.  
+---
+### **IDIOMAS**  
+Ejemplo:  
+Español: Nativo | Inglés: Intermedio (B2)  
+---
+Mantén un tono profesional, redacta con precisión y usa frases cortas y medibles.  
+Evita párrafos largos o información redundante.
+
+Devuelve el resultado en formato de texto limpio, listo para copiar en Word o Canva.
+Aquí está mi currículum:
+[pega aquí tu CV]
+ 
+💬 Prompt 3 – Redactar el perfil profesional (resumen del CV)
+Actúa como un reclutador experto en redacción de perfiles profesionales.  
+Redacta un **perfil profesional de máximo 30 a 50 palabras** en español, con tono formal, claro y orientado a logros.  
+
+Incluye:
+- Años de experiencia.  
+- Área de especialidad.  
+- Principales competencias o herramientas.  
+- Objetivo o enfoque profesional.  
+
+Ejemplo de tono:
+“Ingeniero con más de 5 años de experiencia en gestión de calidad y mejora continua. Experto en metodologías Lean y herramientas digitales como Power BI y Power Automate. Enfocado en la excelencia operativa, la innovación y la transformación digital.”
+ 
+💬 Prompt 4 – Reescribir experiencia laboral con impacto y métricas
+Actúa como experto en selección de personal y redacción de logros profesionales.  
+Voy a pegar una experiencia laboral.  
+Reescríbela con el siguiente formato:  
+
+- 4 a 6 viñetas máximo por puesto.  
+- Cada viñeta de 15 a 20 palabras.  
+- Empieza cada frase con un verbo en pasado (Lideré, Implementé, Reduje, Coordiné, Diseñé...) cuando sean puestos antiguos, en el caso del puesto actual utiliza verbos en presente.  
+- Incluye métricas, porcentajes o resultados medibles.  
+- Usa tono formal, técnico y enfocado en resultados.  
+- Evita palabras genéricas como “responsable de” o “encargado de”.  
+
+Ejemplo:
+- Lideré la certificación de la planta en la norma ISO 9001:2015.  
+- Implementé estrategias Lean, reduciendo actividades sin valor agregado en 15%.  
+- Capacité a 50+ empleados en metodologías de mejora continua.  
+ 
+💬 Prompt 5 – Adaptar tu CV a una vacante específica
+Actúa como especialista en selección de talento. 
+Voy a darte mi currículum actual y la descripción de una vacante.
+Tu tarea es adaptarlo al puesto, respetando estos límites de reglas y formatos:
+---
+**NOMBRE COMPLETO**  
+_Título profesional (por ejemplo: Ingeniero Mecatrónico)_  
+Ciudad, Estado | Teléfono | Correo | LinkedIn  
+---
+### **PERFIL PROFESIONAL**  
+Redacta un párrafo de **30 a 50 palabras**.  
+Debe describir la experiencia, especialidad y principales fortalezas de forma profesional y directa.  
+Usa frases como: *Profesional orientado a resultados*, *Experiencia comprobada en...*, *Capacidad para liderar proyectos de...*
+---
+### **EXPERIENCIA LABORAL**  
+Por cada puesto, incluye:  
+**Cargo | Empresa | Periodo (mes/año – mes/año)**  
+Además, ordena los puestos del más reciente al más antiguo.
+Agrega **4 a 6 viñetas** de máximo **15–20 palabras** cada viñeta para cada uno de los puestos.  
+Cada viñeta debe comenzar con un **verbo en pasado** (Lideré, Implementé, Coordiné, Logré, Desarrollé, etc.) cuando sean puestos en los que ya no trabajo actualmente, en caso de ser un puesto actual, cada viñeta debe comenzar con un **verbo en presente**. Además, ordenas las actividades por orden de importancia.
+Incluye datos medibles y logros reales.  
+Ejemplo:  
+- Implementé iniciativas de mejora continua, reduciendo en un 15% los desperdicios y actividades que no agregan valor mediante metodologías Lean.  
+- Implementé un sistema digital para aprobación de tiempo extra, logrando reducir en un 15% el gasto de tiempo extra a nivel planta.
+- Capacité y desarrollé más de 50 empleados en metodologías Lean y resolución de problemas, fomentando una cultura de mejora continua.
+---
+### **FORMACIÓN ACADÉMICA**  
+**Grado | Universidad | Años cursados**  
+Incluye 1 viñeta opcional con logros o distinciones (máx. 15 palabras).
+Ordena la formación académica del más reciente al más antiguo.  
+---
+### **CERTIFICACIONES**  
+Lista con año entre paréntesis y ordena las certificaciones de la más reciente a la más antigua.  
+Ejemplo:  
+- Lean Six Sigma Green Belt (2023)  
+- Power BI (2024)  
+---
+### **HABILIDADES**  
+Divide en:  
+- **Habilidades técnicas:** lista de 5 herramientas o softwares.  
+- **Habilidades blandas:** lista de 5 competencias personales o profesionales.  
+---
+### **IDIOMAS**  
+Ejemplo:  
+Español: Nativo | Inglés: Intermedio (B2)  
+---
+Mantén un tono profesional, redacta con precisión y usa frases cortas y medibles.  
+Evita párrafos largos o información redundante.
+
+Resalta lo que más valoraría el reclutador y usa palabras clave del anuncio.
+Mi currículum: [pega aquí tu CV]  
+Vacante: [pega aquí la descripción]
+💬 Prompt 6 – Carta de presentación
+Actúa como experto en reclutamiento. 
+Redacta una carta de presentación breve (máximo **150 palabras**) basada en este currículum:
+[pega tu CV aquí]
+Y dirigida a esta empresa o vacante:
+[pega la descripción o nombre de la empresa]
+
+Usa tono natural y motivado. 
+Incluye una introducción (30 palabras), dos frases que conecten mi perfil con el puesto (30 a 50 palabras) y un cierre amable (40 palabras).

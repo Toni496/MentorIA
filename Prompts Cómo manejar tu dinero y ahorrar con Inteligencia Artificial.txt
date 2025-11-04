@@ -1,0 +1,80 @@
+💬 Prompt 1 – Analiza mi presupuesto y dame una visión general
+Actúa como un asesor financiero personal.
+He subido un archivo en Excel con mi presupuesto mensual (ingresos, gastos fijos, variables y ahorro).
+Analízalo y dame un resumen general con lo siguiente:
+1. Mi nivel de equilibrio financiero (¿gasto más de lo que gano o tengo margen de ahorro?).
+2. El porcentaje de mis ingresos que estoy destinando a:
+   - Necesidades
+   - Deseos
+   - Ahorro o inversión
+3. Observaciones sobre mis hábitos financieros.
+4. Consejos para ajustar mi presupuesto sin afectar mis necesidades básicas.
+Limita la respuesta a 350 palabras, con viñetas y subtítulos.
+💬 Prompt 2 – Optimiza mi presupuesto
+Actúa como un analista financiero experto en planeación personal.
+He cargado mi plantilla de presupuesto en Excel.
+Con base en mis datos, haz lo siguiente:
+1. Detecta las categorías donde gasto más del promedio recomendado.
+2. Sugiere ajustes realistas sin afectar mi calidad de vida.
+3. Calcula cuánto podría ahorrar si aplico tus recomendaciones.
+4. Reescribe mi presupuesto ideal con nuevas proporciones.
+Preséntalo en una tabla con:
+Categoría | Gasto actual | Gasto recomendado | Diferencia | Comentario.
+
+
+
+
+
+
+💬 Prompt 3 – Plan de ahorro personalizado
+Actúa como mi asesor financiero y motivador personal.
+He cargado mi plantilla de presupuesto.
+Analiza mis datos y crea un plan de ahorro progresivo con:
+1. Cantidad mensual ideal para ahorrar.
+2. Estrategias simples (reto del 1%, sobres, ahorro digital).
+3. Proyección a 6 y 12 meses.
+4. Tabla resumen con:
+   Mes | Ahorro sugerido | Ahorro acumulado | % de meta lograda.
+5. Frase motivacional final.
+Máximo 300 palabras.
+
+💬 Prompt 4 – Plan financiero anual con metas
+Actúa como un planificador financiero.
+He subido mi plantilla Excel con mi presupuesto anual.
+Con base en mi información, genera:
+1. Promedio mensual de ingresos, gastos y ahorro.
+2. Meses donde gasto más y posibles causas.
+3. Estimación de ahorro anual.
+4. Tres metas financieras realistas.
+5. Un calendario mensual con hitos financieros.
+Máximo 400 palabras.
+
+
+
+
+
+
+
+💬 Prompt 5 – Diagnóstico financiero completo
+Actúa como un experto en finanzas personales.
+He cargado mi plantilla Excel con mi presupuesto mensual.
+Analízala y genera un diagnóstico con:
+📊 Panorama general:
+- Total de ingresos, gastos, ahorro y balance neto.
+- Porcentaje de cada categoría.
+💡 Observaciones:
+- Hábitos positivos detectados.
+- Riesgos financieros.
+🎯 Recomendaciones:
+- Estrategias para mejorar mi ahorro.
+- Hábitos o apps que puedo usar.
+📅 Plan de acción de 30 días:
+- Pasos semanales simples para mejorar mi control financiero.
+💬 Prompt 6 – Resumen visual del presupuesto
+He cargado mi plantilla Excel con mi presupuesto mensual.
+Genera un resumen visual con:
+1. Emojis representando cada categoría.
+2. Porcentaje que representa cada una.
+3. Un semáforo financiero:
+   🟢 Bien controlado | 🟡 A revisar | 🔴 En riesgo
+4. Frase final de motivación.
